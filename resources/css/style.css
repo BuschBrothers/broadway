@@ -41,10 +41,6 @@ footer {
   color: white;
 }
 
-.foot {
-  vertical-align: middle;
-}
-
 #design {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   color: white;
@@ -53,4 +49,6 @@ footer {
 #rights {
   display: inline-block;
   font-weight: normal;
+  margin: 0px;
+  margin-top: 7px;
 }
